@@ -1,0 +1,423 @@
+.log-inpage-container {
+  min-height: 100vh;
+}
+.log-inpage-checkout-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(180deg, rgba(70, 129, 148, 1) 0%, rgba(139, 201, 221, 1) 100%);
+}
+.log-inpage-rectangle5 {
+  top: 252px;
+  left: 308px;
+  width: 776px;
+  height: 543px;
+  position: absolute;
+  border-color: transparent;
+}
+.log-inpage-text {
+  top: 288px;
+  left: 434px;
+  color: rgba(0, 0, 0, 1);
+  width: 574px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle6 {
+  top: 394px;
+  left: 381px;
+  width: 605px;
+  height: 103px;
+  position: absolute;
+  border-color: transparent;
+}
+.log-inpage-rectangle7 {
+  top: 394px;
+  left: 381px;
+  width: 141px;
+  height: 102px;
+  position: absolute;
+  border-color: transparent;
+}
+.log-inpage-text02 {
+  top: 400px;
+  left: 549px;
+  color: rgba(255, 255, 255, 1);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-star1 {
+  top: 454px;
+  left: 549px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-star2 {
+  top: 454px;
+  left: 549px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-line1 {
+  top: 677.5px;
+  left: 381.0015869140625px;
+  width: 630px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-star3 {
+  top: 454px;
+  left: 575px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-star4 {
+  top: 454px;
+  left: 601px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-star5 {
+  top: 454px;
+  left: 627px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-star6 {
+  top: 454px;
+  left: 653px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+}
+.log-inpage-text04 {
+  top: 415px;
+  left: 853px;
+  color: rgba(255, 255, 255, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text06 {
+  top: 472px;
+  left: 556px;
+  color: rgba(255, 255, 255, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text08 {
+  top: 512px;
+  left: 389px;
+  color: rgba(0, 0, 0, 1);
+  width: 732px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle8 {
+  top: 725px;
+  left: 652px;
+  width: 136px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.log-inpage-text25 {
+  top: 728px;
+  left: 670px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-frame1 {
+  top: 68px;
+  left: 812px;
+  width: 600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.log-inpage-text27 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text29 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text31 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text33 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text35 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-whats-app-image20230408at10391 {
+  top: 53px;
+  left: 50px;
+  width: 139px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.log-inpage-text37 {
+  top: 77px;
+  left: 212px;
+  color: rgba(0, 0, 0, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text39 {
+  top: 170px;
+  left: 270px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text41 {
+  top: 170px;
+  left: 549px;
+  color: rgba(214, 34, 34, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text43 {
+  top: 170px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-line2 {
+  top: 187px;
+  left: 482px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-line3 {
+  top: 186px;
+  left: 663px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-line4 {
+  top: 189px;
+  left: 912px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-text45 {
+  top: 175px;
+  left: 998px;
+  color: rgba(0, 0, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

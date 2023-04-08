@@ -1,0 +1,305 @@
+.fantasy-travelo-container {
+  min-height: 100vh;
+}
+.fantasy-travelo-fantasy-travelo {
+  width: 100%;
+  height: 1269px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(180deg, rgba(70, 129, 148, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+.fantasy-travelo-frame1 {
+  top: 70px;
+  left: 655px;
+  width: 600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.fantasy-travelo-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-whats-app-image20230408at10391 {
+  top: 55px;
+  left: 133px;
+  width: 114px;
+  height: 101px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.fantasy-travelo-rectangle2 {
+  top: 606px;
+  left: 200px;
+  width: 214px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 69px;
+}
+.fantasy-travelo-text10 {
+  top: 628px;
+  left: 224px;
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-image1 {
+  top: 231px;
+  left: 769px;
+  width: 529px;
+  height: 362px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 32px;
+}
+.fantasy-travelo-text12 {
+  top: 237px;
+  left: 135px;
+  color: rgba(0, 0, 0, 1);
+  width: 437px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-materialsymbolsarrowcirclerightrounded {
+  top: 618px;
+  left: 432px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.fantasy-travelo-image2 {
+  top: 472px;
+  left: 619px;
+  width: 300px;
+  height: 224px;
+  position: absolute;
+  border-color: transparent;
+}
+.fantasy-travelo-text14 {
+  top: 475px;
+  left: 135px;
+  color: rgba(0, 0, 0, 1);
+  width: 419px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-rectangle10 {
+  top: 124px;
+  left: 541px;
+  width: 588px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 54px;
+}
+.fantasy-travelo-text19 {
+  top: 144px;
+  left: 626px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cormorant Upright;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-icroundsearch {
+  top: 144px;
+  left: 568px;
+  width: 36px;
+  height: 30px;
+  position: absolute;
+}
+.fantasy-travelo-materialsymbolslock {
+  top: 66px;
+  left: 1274px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.fantasy-travelo-image3 {
+  top: 641px;
+  left: 901px;
+  width: 425px;
+  height: 231px;
+  position: absolute;
+  border-color: transparent;
+}
+.fantasy-travelo-image4 {
+  top: 678px;
+  left: 769px;
+  width: 154px;
+  height: 111px;
+  position: absolute;
+  border-color: transparent;
+}
+.fantasy-travelo-text21 {
+  top: 47px;
+  left: 274px;
+  color: rgba(0, 0, 0, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.fantasy-travelo-rectangle4 {
+  top: 47px;
+  left: 1137px;
+  width: 137px;
+  height: 53px;
+  position: absolute;
+}
+.fantasy-travelo-text26 {
+  top: 65px;
+  left: 1171px;
+  color: rgba(252, 251, 251, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

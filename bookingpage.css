@@ -1,0 +1,504 @@
+.log-inpage-container {
+  min-height: 100vh;
+}
+.log-inpage-bookingpage {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-image: linear-gradient(180deg, rgba(70, 129, 148, 1) 0%, rgba(139, 201, 221, 1) 100%);
+}
+.log-inpage-rectangle5 {
+  top: 211px;
+  left: 280px;
+  width: 809px;
+  height: 780px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 41px;
+}
+.log-inpage-frame1 {
+  top: 68px;
+  left: 812px;
+  width: 600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.log-inpage-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-whats-app-image20230408at10391 {
+  top: 53px;
+  left: 50px;
+  width: 139px;
+  height: 87px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.log-inpage-text10 {
+  top: 77px;
+  left: 212px;
+  color: rgba(0, 0, 0, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text12 {
+  top: 170px;
+  left: 270px;
+  color: rgba(255, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text14 {
+  top: 170px;
+  left: 549px;
+  color: rgba(0, 0, 0, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text16 {
+  top: 170px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-line2 {
+  top: 187px;
+  left: 482px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-line3 {
+  top: 186px;
+  left: 663px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-line4 {
+  top: 189px;
+  left: 912px;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+}
+.log-inpage-text18 {
+  top: 175px;
+  left: 998px;
+  color: rgba(0, 0, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle7 {
+  top: 246px;
+  left: 665px;
+  width: 302px;
+  height: 73px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-rectangle13 {
+  top: 920px;
+  left: 604px;
+  width: 206px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.log-inpage-text20 {
+  top: 923px;
+  left: 641px;
+  color: rgba(255, 255, 255, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text22 {
+  top: 249px;
+  left: 382px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle9 {
+  top: 431px;
+  left: 665px;
+  width: 302px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-rectangle10 {
+  top: 828px;
+  left: 489px;
+  width: 183px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-rectangle11 {
+  top: 828px;
+  left: 830px;
+  width: 141px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-text24 {
+  top: 341px;
+  left: 382px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle8 {
+  top: 338px;
+  left: 665px;
+  width: 302px;
+  height: 73px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-text26 {
+  top: 431px;
+  left: 382px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle14 {
+  top: 523px;
+  left: 662px;
+  width: 302px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-text28 {
+  top: 513px;
+  left: 382px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle15 {
+  top: 615px;
+  left: 665px;
+  width: 302px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-text30 {
+  top: 605px;
+  left: 385px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-rectangle16 {
+  top: 713px;
+  left: 665px;
+  width: 302px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23px;
+}
+.log-inpage-text32 {
+  top: 703px;
+  left: 385px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text34 {
+  top: 839px;
+  left: 378px;
+  color: rgba(0, 0, 0, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-text36 {
+  top: 839px;
+  left: 694px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.log-inpage-icoutlinecalendarmonth {
+  top: 637px;
+  left: 924px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.log-inpage-icoutlinecalendarmonth1 {
+  top: 732px;
+  left: 924px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
